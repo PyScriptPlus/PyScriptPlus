@@ -7,16 +7,18 @@
 
 
 
-<h2 align="center" style="color: red;"> Stats </h2>
+<h2 align="center"> Stats </h2>
 <!--
 <img alt="Pic1" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PyScriptPlus&show_icons=true&theme=panda"/>
 Ye Them dg as
 -->
+
 <img alt="Pic1" align="left" width=47% src="https://github-readme-stats-salesp07.vercel.app/api?username=PyScriptPlus&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10"/>
 <img alt="Pic2" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyScriptPlus&layout=compact&theme=panda"/>
 
+<br clear="left"/>
 
-## 🖥️ Systems I Use
+<h2 align="left"> 🖥️ Operating Systems I Use </h2>
 
 I work with a variety of operating systems and environments depending on the project. Here's a list of my go-to systems:
 ### 1. <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> Linux (Kali & Ubuntu & Arch)
