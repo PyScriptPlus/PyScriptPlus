@@ -12,8 +12,8 @@
 <img alt="Pic1" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PyScriptPlus&show_icons=true&theme=panda"/>
 Ye Them dg as
 -->
-<img alt="Pic1" align="left" width=47% src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10"/>
-<img alt="Pic2" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=panda"/>
+<img alt="Pic1" align="left" width=47% src="https://github-readme-stats-salesp07.vercel.app/api?username=PyScriptPlus&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10"/>
+<img alt="Pic2" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyScriptPlus&layout=compact&theme=panda"/>
 
 
 ## 🖥️ Systems I Use
