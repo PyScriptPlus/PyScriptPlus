@@ -12,7 +12,10 @@
 <img alt="Pic1" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PyScriptPlus&show_icons=true&theme=panda"/>
 Ye Them dg as
 -->
-
+<!--
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img alt="Pic1" align="left" width=47% src="https://github-readme-stats-salesp07.vercel.app/api?username=PyScriptPlus&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10"/>
+-->
 <img alt="Pic1" align="left" width=47% src="https://github-readme-stats-salesp07.vercel.app/api?username=PyScriptPlus&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10"/>
 <img alt="Pic2" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyScriptPlus&layout=compact&theme=panda"/>
 
