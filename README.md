@@ -1,8 +1,12 @@
 <h1 align="center"> I'M Mohammad </h1>
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs"/>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,vscode,github,figma,tailwind,git"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,c,java,nextjs,mysql,flask"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,nextjs,mysql,flask"/>
+    <a href="https://www.postgresql.org/" target="_blank"> <img alt="PostgreSQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a> 
+    <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
+    <a href="https://archlinux.org/" target="_blank"> <img alt="Arch" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
 </div>
 
 
