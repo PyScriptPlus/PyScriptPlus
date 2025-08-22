@@ -1,5 +1,5 @@
 <h1 align="center"> I'M Mohammad </h1>
-<h2 align="center"> Languages-Frameworks-Tools </h2>
+<h2 align="center"> Languages-Frameworks-Tools-OS </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs"/>
     <br/>
