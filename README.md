@@ -21,8 +21,9 @@ Ye Them dg as
 <img alt="Pic1" align="left" width=47% src="https://github-readme-stats-salesp07.vercel.app/api?username=PyScriptPlus&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10"/>
 -->
 <img alt="Pic1" align="left" width=47% src="https://github-readme-stats-salesp07.vercel.app/api?username=PyScriptPlus&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10&v=8"/>
+<img alt="Pic2" align="left" width=47% src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PyScriptPlus&layout=compact&theme=panda&border_radius=10" />
 <!-- <img alt="Pic2" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyScriptPlus&layout=compact&theme=panda&v=8"/> -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PyScriptPlus&theme=dracula" />
+
 
 
 
