@@ -1,14 +1,15 @@
 <h1 align="center"> I'M Mohammad </h1>
 <h2 align="center"> Languages-Frameworks-Tools-OS </h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs"/>
+    <!-- <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=asm&logoColor=white" /> -->
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/assembly.svg" width="50" alt="Assembly">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=vim,visualstudio,vscode,clion,github,gitlab,git"/>
     <img src="https://skillicons.dev/icons?i=stackoverflow,cmake,nodejs,python,javascript,typescript,qt,php,wasm,mongodb,java,mysql,docker,kubernetes"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=linux,arch,kali,ubuntu,debian,bash,windows"/>
 </div>
-
 
 
 <h2 align="center"> Stats </h2>
