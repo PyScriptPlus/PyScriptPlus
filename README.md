@@ -39,6 +39,7 @@ Ye Them dg as
 I work with a variety of operating systems and environments depending on the project. Here's a list of my go-to systems:
 ### 1. <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> Linux (Fedora& Arch & Kali & Ubuntu)
 I primarily use Linux for development, especially when working with open-source tools, networking, and server-side projects. The flexibility and power of Linux help me tailor my environment just the way I like it.
+> **Today, Fedora is my daily driver and my number one choice** – it gives me the perfect balance of cutting-edge software, stability, and a smooth workflow. I rely on it for almost everything I do.
 - **Fedora**: Cutting-edge yet stable, great for GNOME and containerized workflows. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="30" height="30"/>
 - **Arch**: Customizable and lightweight for performance-critical tasks. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="30" height="30"/>
 - **Kali**: Preferred for penetration testing and ethical hacking. <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
