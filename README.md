@@ -44,8 +44,11 @@ I primarily use Linux for development, especially when working with open-source 
 - **Arch**: Customizable and lightweight for performance-critical tasks. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="30" height="30"/>
 - **Fedora**: Cutting-edge yet stable, great for GNOME and containerized workflows. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="30" height="30"/>
 
-### 2. <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> Windows 10/11
-For tasks like gaming, software with native Windows support, and testing cross-platform applications, I turn to Windows. It’s great for when I need to interact with Windows-only software.
+### 2. <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> Windows (XP → 11)
+I’ve been using Windows since the XP days, and over the years I’ve experienced every major version up to Windows 11. It’s my go-to for gaming, native Windows software, and testing cross-platform apps.
+
+- **Windows XP, Vista, 7, 8, 8.1, 10, 11** – each brought something new, and I’ve worked with them all.  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="30" height="30"/> *The icon represents the Windows family.*
 
 ### 3. <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white"/> WSL (Windows Subsystem for Linux)
 For quick access to Linux tools while using Windows, I use WSL. It provides a great balance between Windows and Linux without needing a dual boot.
