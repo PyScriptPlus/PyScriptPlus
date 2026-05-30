@@ -37,11 +37,12 @@ Ye Them dg as
 <h2 align="left"> 🖥️ Operating Systems I Use </h2>
 
 I work with a variety of operating systems and environments depending on the project. Here's a list of my go-to systems:
-### 1. <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> Linux (Kali & Ubuntu & Arch)
+### 1. <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> Linux (Kali & Ubuntu & Arch & Fedora)
 I primarily use Linux for development, especially when working with open-source tools, networking, and server-side projects. The flexibility and power of Linux help me tailor my environment just the way I like it.
 - **Kali**: Preferred for penetration testing and ethical hacking. <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
 - **Ubuntu**: Ideal for user-friendly development. <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="25" height="25"/>
 - **Arch**: Customizable and lightweight for performance-critical tasks. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="30" height="30"/>
+- **Fedora**: Cutting-edge yet stable, great for GNOME and containerized workflows. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="30" height="30"/>
 
 ### 2. <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> Windows 10/11
 For tasks like gaming, software with native Windows support, and testing cross-platform applications, I turn to Windows. It’s great for when I need to interact with Windows-only software.
