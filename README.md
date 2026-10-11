@@ -24,15 +24,61 @@ Ye Them dg as
 <!-- <img alt="Pic1" align="left" width=47% src="https://github-readme-stats-salesp07.vercel.app/api?username=PyScriptPlus&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10&v=23"/>
 <img alt="Pic2" align="left" width=47% src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PyScriptPlus&layout=compact&theme=panda&border_radius=10&v=23"/> -->
 <!-- <img alt="Pic2" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyScriptPlus&layout=compact&theme=panda&v=8"/> -->
-<p align="center">
+<!-- <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p> -->
+<div align="center">
+<!-- <a href="https://github.com/PyScriptPlus">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=200&section=header&text=PyScriptPlus&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+</a> -->
+
+<a href="https://github.com/PyScriptPlus">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=200&section=header&text=PyScriptPlus&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%5B+C+%7C+C%2B%2B+%7C+Assembly+%7C+Linux+%5D&descAlignY=62&descSize=18&descColor=7ee787" />
+</a>
+
+<!-- <div align="center">
+  <a href="https://github.com/PyScriptPlus">
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:0a3622,100:00ff41&height=220&section=header&text=PyScriptPlus&fontSize=75&fontColor=00ff41&animation=blinking&fontAlignY=40&desc=%5B+C+%7C+C%2B%2B+%7C+Assembly+%7C+Linux+%5D&descAlignY=62&descSize=18&descColor=7ee787" />
+  </a>
+
+
+<a href="https://github.com/PyScriptPlus">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00599c,100:00ff41&height=220&section=header&text=PyScriptPlus&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=01001100+01101111+01110111+00101101+01001100+01100101+01110110+01100101+01101100&descAlignY=62&descSize=14&descColor=00ff41" />
+</a>
+
+
+<a href="https://github.com/PyScriptPlus">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff6b1a,100:00d9ff&height=220&section=header&text=PyScriptPlus&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend+Developer+%7C+C+%2F+C%2B%2B+%2F+Assembly&descAlignY=62&descSize=18&descColor=00d9ff" />
+</a>
+
+
+  <a href="https://github.com/PyScriptPlus">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:00599c&height=200&section=header&text=PyScriptPlus&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=45&desc=Backend+%7C+Low-Level+%7C+Systems+Programming&descAlignY=68&descSize=16&descColor=a8b9cc" />
+  </a>
+ -->
+
+    
+</div>
+
+<div align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D76D77&center=true&vCenter=true&width=600&lines=C+%2F+C%2B%2B+Developer;Assembly+Enthusiast;Linux+Systems+Programmer;Socket+%26+Network+Programming" alt="Typing SVG" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D76D77&center=true&vCenter=true&width=600&lines=Backend+Developer;Low-Level+Enthusiast;Socket+Programming;Always+Learning" alt="Typing SVG" />
+</a>
+
+</div>
+
+<div align="center">
+
+
+<p>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PyScriptPlus&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=400" alt="Top Languages" />
 </p>
 
-
-
-
-
-
+</div>
 
 <br clear="left"/>
 
@@ -58,6 +104,23 @@ I’ve been using Windows since the XP days, and over the years I’ve experienc
 For quick access to Linux tools while using Windows, I use WSL. It provides a great balance between Windows and Linux without needing a dual boot.
 
 ---
+
+<div align="center">
+
+###  Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Learning-Cpp-Full](https://github.com/PyScriptPlus/Learning-Cpp-Full)** | Comprehensive C++ learning journey with exercises and mini-projects. | `C++` |
+| **[WorkWithRayLib](https://github.com/PyScriptPlus/WorkWithRayLib)** | Graphics and game programming experiments using RayLib. | `C++` `RayLib` |
+| **[x86-assembly-linux](https://github.com/PyScriptPlus/x86-assembly-linux)** | Exploring low-level programming with x86 assembly on Linux. | `Assembly` `Linux` |
+| **[C-TCP-Server](https://github.com/PyScriptPlus/C-TCP-Server)** | A simple TCP server implementation in C. | `C` `Sockets` |
+| **[Socket-Programming](https://github.com/PyScriptPlus/Socket-Programming)** | Various examples of socket programming. | `C` `Sockets` |
+| **[HardIntel](https://github.com/PyScriptPlus/HardIntel)** | A tool to display system hardware information. | `C++` `System` |
+
+</div>
+
+
 
 <!--
 *I like to keep a flexible workflow, choosing the best system for the task at hand.*
