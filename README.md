@@ -75,7 +75,7 @@ Ye Them dg as
 
 
 <p>
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PyScriptPlus&layout=compact&theme=radical&hide_border=true&langs_count=11&card_width=400&hide=HTML" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PyScriptPlus&layout=compact&theme=radical&hide_border=true&langs_count=12&card_width=400&hide=HTML" alt="Top Languages" />
 </p>
 
 </div>
