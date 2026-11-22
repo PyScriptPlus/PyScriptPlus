@@ -8,7 +8,9 @@
     <img src="https://skillicons.dev/icons?i=vim,visualstudio,vscode,clion,github,gitlab,git"/>
     <img src="https://skillicons.dev/icons?i=stackoverflow,cmake,nodejs,python,javascript,typescript,qt,php,wasm,mongodb,java,mysql,docker,kubernetes"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=linux,arch,kali,ubuntu,debian,bash,windows"/>
+    <img src="https://skillicons.dev/icons?i=linux,arch"/>
+    <img src="https://cdn.simpleicons.org/fedora/51A2DA" width="48" height="48" alt="Fedora"/>
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,debian,bash,windows"/>
 </div>
 
 
